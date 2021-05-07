@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "isoscele"
-permalink: /isoscele/
+permalink: /
 ---
 
 ### it me!
