@@ -1,2 +1,2 @@
 ### hi! :frog:
-(twitter)[https://twitter.com/alg0rithm/]
+https://twitter.com/alg0rithm/
